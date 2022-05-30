@@ -1,0 +1,24 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    padding: 10px;
+    max-width: 400px;
+    border:2px solid rgb(27, 27, 27);
+    border-radius: 5px;
+    margin: auto;
+    }
+
+#title {
+    color: rgb(27, 27, 27);
+    margin-top: 0;
+    padding: 10px;
+}
+.task-form {
+    padding: 10px;
+}
+
+.task-list {
+    padding: 10px;
+}
